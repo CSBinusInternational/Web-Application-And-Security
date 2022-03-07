@@ -1,0 +1,69 @@
+.Main{
+  text-align: center;
+  justify-content: center;
+  display : flex;
+  padding : 100px 0 100px 0;
+  background-color: #f1cf73;
+  height: 100%;
+  width: 100%;
+}
+
+.Sub-Main {
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  width: 500px;
+  padding-top: 40px;
+  border-radius: 80px;
+  background-color: #45b2f1;
+}
+
+.user-email{
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.user-pw{
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.login-button{
+  padding-top: 15px;
+}
+
+.forgot-or-signup{
+  font-size: 18px;
+  font-weight: bold;
+  font-weight: 400;
+}
+
+a{
+  color: rgb(255, 255, 255);
+}
+
+input{
+  width: 400px;
+  height: 40px;
+  border-radius: 90px;
+  background-color: #ececec; 
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  position: relative;
+}
+
+button{
+  width: 100px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #e4d619; 
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
